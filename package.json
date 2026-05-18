@@ -1,0 +1,13 @@
+{
+  "name": "android-log-analyzer",
+  "version": "1.0.0",
+  "description": "Real-time Android logcat analyzer with filtering and alerts",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
